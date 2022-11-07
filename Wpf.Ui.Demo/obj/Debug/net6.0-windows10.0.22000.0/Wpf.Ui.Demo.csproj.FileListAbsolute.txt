@@ -1,0 +1,96 @@
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\License - Fira Code.txt
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\License - Fluent System Icons.txt
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\License - Segoe Fluent Icons.txt
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\License - VirtualizingWrapPanel.txt
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\WPF UI - Demo App.exe
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\WPF UI - Demo App.deps.json
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\WPF UI - Demo App.runtimeconfig.json
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\WPF UI - Demo App.dll
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\WPF UI - Demo App.pdb
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\CommunityToolkit.Mvvm.dll
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.Configuration.dll
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.Configuration.Binder.dll
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.Configuration.CommandLine.dll
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.Configuration.Json.dll
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.DependencyInjection.dll
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.FileProviders.Physical.dll
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.Hosting.dll
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.Logging.dll
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.Logging.Configuration.dll
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.Logging.Console.dll
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.Logging.Debug.dll
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.Logging.EventLog.dll
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.Logging.EventSource.dll
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.Options.dll
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.Primitives.dll
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Windows.SDK.NET.dll
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\WinRT.Runtime.dll
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Wpf.Ui.dll
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Wpf.Ui.pdb
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Wpf.Ui.Demo.csproj.AssemblyReference.cache
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\App.baml
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Container.g.cs
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Diagnostics\DebuggingLayerView.g.cs
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Pages\Buttons.g.cs
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Pages\Colors.g.cs
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Pages\Controls.g.cs
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Pages\Dashboard.g.cs
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Pages\Data.g.cs
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Pages\Debug.g.cs
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Pages\ExperimentalDashboard.g.cs
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Pages\Icons.g.cs
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Pages\Input.g.cs
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Pages\Menus.g.cs
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Pages\STPage.g.cs
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Pages\TMPage.g.cs
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Windows\EditorWindow.g.cs
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Windows\ExperimentalWindow.g.cs
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Windows\SettingsWindow.g.cs
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Windows\StoreWindow.g.cs
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Windows\TaskManagerWindow.g.cs
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\App.g.cs
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\WPF UI - Demo App_Content.g.cs
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\GeneratedInternalTypeHelper.g.cs
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\WPF UI - Demo App_MarkupCompile.cache
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\WPF UI - Demo App_MarkupCompile.lref
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Container.baml
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Diagnostics\DebuggingLayerView.baml
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Pages\Buttons.baml
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Pages\Colors.baml
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Pages\Controls.baml
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Pages\Dashboard.baml
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Pages\Data.baml
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Pages\Debug.baml
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Pages\ExperimentalDashboard.baml
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Pages\Icons.baml
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Pages\Input.baml
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Pages\Menus.baml
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Pages\STPage.baml
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Pages\TMPage.baml
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Windows\EditorWindow.baml
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Windows\ExperimentalWindow.baml
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Windows\SettingsWindow.baml
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Windows\StoreWindow.baml
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Windows\TaskManagerWindow.baml
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\WPF UI - Demo App.g.resources
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Wpf.Ui.Demo.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Wpf.Ui.Demo.AssemblyInfoInputs.cache
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Wpf.Ui.Demo.AssemblyInfo.cs
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Wpf.Ui.Demo.csproj.CoreCompileInputs.cache
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Wpf.Ui.Demo.csproj.CopyComplete
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\WPF UI - Demo App.dll
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\refint\WPF UI - Demo App.dll
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\WPF UI - Demo App.pdb
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Wpf.Ui.Demo.genruntimeconfig.cache
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\ref\WPF UI - Demo App.dll

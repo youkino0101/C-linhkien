@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/abswEXDWlguOAPsGC/HISRNZl4rpNeshj19aTM2K6kToKD35pj9uK79domA1W6ZKBAKSWJ3eJo1AUK7D/0bLw==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\wpf\\wpfui\\src\\Wpf.Ui.SimpleDemo\\Wpf.Ui.SimpleDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22000.27\\microsoft.windows.sdk.net.ref.10.0.22000.27.nupkg.sha512"
+  ],
+  "logs": []
+}

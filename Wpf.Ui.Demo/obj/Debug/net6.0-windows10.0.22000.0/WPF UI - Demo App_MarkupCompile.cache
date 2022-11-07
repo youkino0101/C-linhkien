@@ -1,0 +1,20 @@
+﻿WPF UI - Demo App
+
+
+winexe
+C#
+.cs
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\
+Wpf.Ui.Demo
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+F:\C#\wpf\wpfui\src\Wpf.Ui.DEMO\App.xaml
+191676474127
+11943672510
+421053388674
+2241721130679
+Views\Container.xaml;Views\Diagnostics\DebuggingLayerView.xaml;Views\Pages\Buttons.xaml;Views\Pages\Colors.xaml;Views\Pages\Controls.xaml;Views\Pages\Dashboard.xaml;Views\Pages\Data.xaml;Views\Pages\Debug.xaml;Views\Pages\ExperimentalDashboard.xaml;Views\Pages\Icons.xaml;Views\Pages\Input.xaml;Views\Pages\Menus.xaml;Views\Pages\STPage.xaml;Views\Pages\TMPage.xaml;Views\Windows\EditorWindow.xaml;Views\Windows\ExperimentalWindow.xaml;Views\Windows\SettingsWindow.xaml;Views\Windows\StoreWindow.xaml;Views\Windows\TaskManagerWindow.xaml;
+
+False
+

@@ -1,5 +1,5 @@
-/Wpf.Ui
-/Wpf.Ui.Demo
 /Wpf.Ui.Extension
 /Wpf.Ui.FontMapper
-/Wpf.Ui.SimpleDemo
+Wpf.Ui.Extension.sln
+Wpf.Ui.sln
+Wpf.Ui.Tools.sln

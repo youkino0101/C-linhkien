@@ -1,0 +1,36 @@
+F:\C#\wpf\wpfui\src\Wpf.Ui.SimpleDemo\bin\Debug\net6.0-windows10.0.22000.0\License - Fira Code.txt
+F:\C#\wpf\wpfui\src\Wpf.Ui.SimpleDemo\bin\Debug\net6.0-windows10.0.22000.0\License - Fluent System Icons.txt
+F:\C#\wpf\wpfui\src\Wpf.Ui.SimpleDemo\bin\Debug\net6.0-windows10.0.22000.0\License - Segoe Fluent Icons.txt
+F:\C#\wpf\wpfui\src\Wpf.Ui.SimpleDemo\bin\Debug\net6.0-windows10.0.22000.0\License - VirtualizingWrapPanel.txt
+F:\C#\wpf\wpfui\src\Wpf.Ui.SimpleDemo\bin\Debug\net6.0-windows10.0.22000.0\Wpf.Ui.SimpleDemo.exe
+F:\C#\wpf\wpfui\src\Wpf.Ui.SimpleDemo\bin\Debug\net6.0-windows10.0.22000.0\Wpf.Ui.SimpleDemo.deps.json
+F:\C#\wpf\wpfui\src\Wpf.Ui.SimpleDemo\bin\Debug\net6.0-windows10.0.22000.0\Wpf.Ui.SimpleDemo.runtimeconfig.json
+F:\C#\wpf\wpfui\src\Wpf.Ui.SimpleDemo\bin\Debug\net6.0-windows10.0.22000.0\Wpf.Ui.SimpleDemo.dll
+F:\C#\wpf\wpfui\src\Wpf.Ui.SimpleDemo\bin\Debug\net6.0-windows10.0.22000.0\Wpf.Ui.SimpleDemo.pdb
+F:\C#\wpf\wpfui\src\Wpf.Ui.SimpleDemo\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Windows.SDK.NET.dll
+F:\C#\wpf\wpfui\src\Wpf.Ui.SimpleDemo\bin\Debug\net6.0-windows10.0.22000.0\WinRT.Runtime.dll
+F:\C#\wpf\wpfui\src\Wpf.Ui.SimpleDemo\bin\Debug\net6.0-windows10.0.22000.0\Wpf.Ui.dll
+F:\C#\wpf\wpfui\src\Wpf.Ui.SimpleDemo\bin\Debug\net6.0-windows10.0.22000.0\Wpf.Ui.pdb
+F:\C#\wpf\wpfui\src\Wpf.Ui.SimpleDemo\obj\Debug\net6.0-windows10.0.22000.0\Wpf.Ui.SimpleDemo.csproj.AssemblyReference.cache
+F:\C#\wpf\wpfui\src\Wpf.Ui.SimpleDemo\obj\Debug\net6.0-windows10.0.22000.0\DashboardPage.g.cs
+F:\C#\wpf\wpfui\src\Wpf.Ui.SimpleDemo\obj\Debug\net6.0-windows10.0.22000.0\MainWindow.g.cs
+F:\C#\wpf\wpfui\src\Wpf.Ui.SimpleDemo\obj\Debug\net6.0-windows10.0.22000.0\App.g.cs
+F:\C#\wpf\wpfui\src\Wpf.Ui.SimpleDemo\obj\Debug\net6.0-windows10.0.22000.0\Wpf.Ui.SimpleDemo_Content.g.cs
+F:\C#\wpf\wpfui\src\Wpf.Ui.SimpleDemo\obj\Debug\net6.0-windows10.0.22000.0\GeneratedInternalTypeHelper.g.cs
+F:\C#\wpf\wpfui\src\Wpf.Ui.SimpleDemo\obj\Debug\net6.0-windows10.0.22000.0\Wpf.Ui.SimpleDemo_MarkupCompile.cache
+F:\C#\wpf\wpfui\src\Wpf.Ui.SimpleDemo\obj\Debug\net6.0-windows10.0.22000.0\Wpf.Ui.SimpleDemo_MarkupCompile.lref
+F:\C#\wpf\wpfui\src\Wpf.Ui.SimpleDemo\obj\Debug\net6.0-windows10.0.22000.0\App.baml
+F:\C#\wpf\wpfui\src\Wpf.Ui.SimpleDemo\obj\Debug\net6.0-windows10.0.22000.0\DashboardPage.baml
+F:\C#\wpf\wpfui\src\Wpf.Ui.SimpleDemo\obj\Debug\net6.0-windows10.0.22000.0\MainWindow.baml
+F:\C#\wpf\wpfui\src\Wpf.Ui.SimpleDemo\obj\Debug\net6.0-windows10.0.22000.0\Wpf.Ui.SimpleDemo.g.resources
+F:\C#\wpf\wpfui\src\Wpf.Ui.SimpleDemo\obj\Debug\net6.0-windows10.0.22000.0\Wpf.Ui.SimpleDemo.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\wpf\wpfui\src\Wpf.Ui.SimpleDemo\obj\Debug\net6.0-windows10.0.22000.0\Wpf.Ui.SimpleDemo.AssemblyInfoInputs.cache
+F:\C#\wpf\wpfui\src\Wpf.Ui.SimpleDemo\obj\Debug\net6.0-windows10.0.22000.0\Wpf.Ui.SimpleDemo.AssemblyInfo.cs
+F:\C#\wpf\wpfui\src\Wpf.Ui.SimpleDemo\obj\Debug\net6.0-windows10.0.22000.0\Wpf.Ui.SimpleDemo.csproj.CoreCompileInputs.cache
+F:\C#\wpf\wpfui\src\Wpf.Ui.SimpleDemo\obj\Debug\net6.0-windows10.0.22000.0\Wpf.Ui.SimpleDemo.csproj.CopyComplete
+F:\C#\wpf\wpfui\src\Wpf.Ui.SimpleDemo\obj\Debug\net6.0-windows10.0.22000.0\Wpf.Ui.SimpleDemo.dll
+F:\C#\wpf\wpfui\src\Wpf.Ui.SimpleDemo\obj\Debug\net6.0-windows10.0.22000.0\refint\Wpf.Ui.SimpleDemo.dll
+F:\C#\wpf\wpfui\src\Wpf.Ui.SimpleDemo\obj\Debug\net6.0-windows10.0.22000.0\Wpf.Ui.SimpleDemo.pdb
+F:\C#\wpf\wpfui\src\Wpf.Ui.SimpleDemo\obj\Debug\net6.0-windows10.0.22000.0\Wpf.Ui.SimpleDemo.genruntimeconfig.cache
+F:\C#\wpf\wpfui\src\Wpf.Ui.SimpleDemo\obj\Debug\net6.0-windows10.0.22000.0\ref\Wpf.Ui.SimpleDemo.dll
+F:\C#\wpf\wpfui\src\Wpf.Ui.SimpleDemo\obj\Debug\net6.0-windows10.0.22000.0\Window1.g.cs
