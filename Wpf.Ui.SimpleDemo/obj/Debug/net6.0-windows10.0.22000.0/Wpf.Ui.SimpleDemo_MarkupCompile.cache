@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 F:\C#\wpf\wpfui\src\Wpf.Ui.SimpleDemo\App.xaml
-3-280059020
+3697336629
 11943672510
-51670948438
+52040033084
 198606621482
-DashboardPage.xaml;MainWindow.xaml;Window1.xaml;
+DashboardPage.xaml;Login.xaml;MainWindow.xaml;
 
-True
+False
 

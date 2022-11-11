@@ -33,4 +33,5 @@ F:\C#\wpf\wpfui\src\Wpf.Ui.SimpleDemo\obj\Debug\net6.0-windows10.0.22000.0\refin
 F:\C#\wpf\wpfui\src\Wpf.Ui.SimpleDemo\obj\Debug\net6.0-windows10.0.22000.0\Wpf.Ui.SimpleDemo.pdb
 F:\C#\wpf\wpfui\src\Wpf.Ui.SimpleDemo\obj\Debug\net6.0-windows10.0.22000.0\Wpf.Ui.SimpleDemo.genruntimeconfig.cache
 F:\C#\wpf\wpfui\src\Wpf.Ui.SimpleDemo\obj\Debug\net6.0-windows10.0.22000.0\ref\Wpf.Ui.SimpleDemo.dll
-F:\C#\wpf\wpfui\src\Wpf.Ui.SimpleDemo\obj\Debug\net6.0-windows10.0.22000.0\Window1.g.cs
+F:\C#\wpf\wpfui\src\Wpf.Ui.SimpleDemo\obj\Debug\net6.0-windows10.0.22000.0\Login.g.cs
+F:\C#\wpf\wpfui\src\Wpf.Ui.SimpleDemo\obj\Debug\net6.0-windows10.0.22000.0\Login.baml
