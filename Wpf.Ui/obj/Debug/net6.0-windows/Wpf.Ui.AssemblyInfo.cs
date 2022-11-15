@@ -18,7 +18,7 @@ using System.Reflection;
     "rends. Library changes the base elements like Page, ToggleButton or List, and al" +
     "so includes additional controls like Navigation, NumberBox, Dialog or Snackbar.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("2.0.3.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("2.0.3+6ace6284aa68340463ef49bee1e467cf0f144e61")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("2.0.3+87fa561731207a44eca843c00d295ef2818d23d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("WPF UI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Wpf.Ui")]
 [assembly: System.Reflection.AssemblyVersionAttribute("2.0.3.0")]
