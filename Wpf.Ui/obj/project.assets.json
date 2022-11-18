@@ -713,11 +713,11 @@
   "project": {
     "version": "2.0.3",
     "restore": {
-      "projectUniqueName": "D:\\C#\\cslinhkien\\Wpf.Ui\\Wpf.Ui.csproj",
+      "projectUniqueName": "D:\\C#\\cslk\\C-linhkien\\Wpf.Ui\\Wpf.Ui.csproj",
       "projectName": "WPF-UI",
-      "projectPath": "D:\\C#\\cslinhkien\\Wpf.Ui\\Wpf.Ui.csproj",
+      "projectPath": "D:\\C#\\cslk\\C-linhkien\\Wpf.Ui\\Wpf.Ui.csproj",
       "packagesPath": "C:\\Users\\DTP000\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\cslinhkien\\Wpf.Ui\\obj\\",
+      "outputPath": "D:\\C#\\cslk\\C-linhkien\\Wpf.Ui\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "configFilePaths": [

@@ -72,9 +72,12 @@ namespace Wpf.Ui.SimpleDemo.Data.Impl
         public void update(User user)
         {
             User find = db.Users.Single(us => us.id == user.id);
-            find.phone = user.phone;
-            find.Orders = user.Orders;
+            find.username = user.username;
             find.password = user.password;
+            find.email = user.email;
+            find.phone = user.phone;
+            find.address = user.address;
+            find.role = user.role;
             db.SubmitChanges();
         }
     }
