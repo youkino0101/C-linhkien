@@ -6324,19 +6324,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\DTP000\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "2.0.3",
     "restore": {
-      "projectUniqueName": "F:\\C#\\wpf\\wpfui\\src\\Wpf.Ui.SimpleDemo\\Wpf.Ui.SimpleDemo.csproj",
+      "projectUniqueName": "D:\\C#\\cslinhkien\\Wpf.Ui.SimpleDemo\\Wpf.Ui.SimpleDemo.csproj",
       "projectName": "Wpf.Ui.SimpleDemo",
-      "projectPath": "F:\\C#\\wpf\\wpfui\\src\\Wpf.Ui.SimpleDemo\\Wpf.Ui.SimpleDemo.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "F:\\C#\\wpf\\wpfui\\src\\Wpf.Ui.SimpleDemo\\obj\\",
+      "projectPath": "D:\\C#\\cslinhkien\\Wpf.Ui.SimpleDemo\\Wpf.Ui.SimpleDemo.csproj",
+      "packagesPath": "C:\\Users\\DTP000\\.nuget\\packages\\",
+      "outputPath": "D:\\C#\\cslinhkien\\Wpf.Ui.SimpleDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\DTP000\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6350,8 +6350,8 @@
         "net6.0-windows10.0.22000": {
           "targetAlias": "net6.0-windows10.0.22000.0",
           "projectReferences": {
-            "F:\\C#\\wpf\\wpfui\\src\\Wpf.Ui\\Wpf.Ui.csproj": {
-              "projectPath": "F:\\C#\\wpf\\wpfui\\src\\Wpf.Ui\\Wpf.Ui.csproj"
+            "D:\\C#\\cslinhkien\\Wpf.Ui\\Wpf.Ui.csproj": {
+              "projectPath": "D:\\C#\\cslinhkien\\Wpf.Ui\\Wpf.Ui.csproj"
             }
           }
         }
@@ -6403,7 +6403,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

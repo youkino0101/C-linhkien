@@ -33,5 +33,9 @@ namespace Wpf.Ui.SimpleDemo
         {
 
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+        }
     }
 }

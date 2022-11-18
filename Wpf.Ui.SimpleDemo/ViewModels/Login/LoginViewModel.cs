@@ -1,12 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Input;
 using Wpf.Ui.SimpleDemo.Data.Dao;
-
+using Wpf.Ui.SimpleDemo.Utils;
 namespace Wpf.Ui.SimpleDemo.ViewModels.Login
 {
     public class LoginViewModel : ViewModelBase
@@ -19,6 +20,7 @@ namespace Wpf.Ui.SimpleDemo.ViewModels.Login
         public LoginViewModel()
         {
             LoginCommand = new RelayCommand<object>(CanExecuteLoginCommand, ExecuteLoginCommand);
+            Password = "";
         }
 
         private bool CanExecuteLoginCommand(object obj)
@@ -28,9 +30,12 @@ namespace Wpf.Ui.SimpleDemo.ViewModels.Login
 
         private void ExecuteLoginCommand(object obj)
         {
+            //SecureString myPass = Password.
+            //string pass = Password;
             DataDao.init(new SqlServerDataDao());
             UserDao userDao = DataDao.Instance().GetUserDao();
-            User user = userDao.find(Phone, Password);
+
+            User user = userDao.login(Phone, Password);
             if (user != null)
             {
                 MainWindow mainWindow = new MainWindow();

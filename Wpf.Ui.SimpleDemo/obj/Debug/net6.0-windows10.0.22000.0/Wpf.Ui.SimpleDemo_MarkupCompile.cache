@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-F:\C#\wpf\wpfui\src\Wpf.Ui.SimpleDemo\obj\Debug\net6.0-windows10.0.22000.0\
+D:\C#\cslinhkien\Wpf.Ui.SimpleDemo\obj\Debug\net6.0-windows10.0.22000.0\
 Wpf.Ui.SimpleDemo
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-F:\C#\wpf\wpfui\src\Wpf.Ui.SimpleDemo\App.xaml
+D:\C#\cslinhkien\Wpf.Ui.SimpleDemo\App.xaml
 31103649249
 11943672510
-15-306695178
-211-1077134723
+161560250593
+211-1339255286
 DashboardPage.xaml;MainWindow.xaml;Views\Login\Login.xaml;
 
 False
