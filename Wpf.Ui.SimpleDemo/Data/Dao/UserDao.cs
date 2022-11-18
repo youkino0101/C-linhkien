@@ -11,5 +11,7 @@ namespace Wpf.Ui.SimpleDemo.Data.Dao
         User findById(int id);
         void deleteById(int id);
         User find(string phone, string password);
+
+        User login(string username, string password);
     }
 }

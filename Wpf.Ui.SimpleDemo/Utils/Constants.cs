@@ -8,6 +8,7 @@ namespace Wpf.Ui.SimpleDemo.Utils
 {
     public class Constants
     {
-        public static string DB_CONNECT_STRING = "Data Source=admin\\quan;Initial Catalog=QLBanHangCSharp;Integrated Security=True";
+        public static string DB_CONNECT_STRING = "Data Source=localhost\\sqlexpress;Initial Catalog=QLBanHangCSharp;Integrated Security=True";
     }
 }
+

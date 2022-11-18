@@ -1,14 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\Wpf.Ui",
-    "\\Wpf.Ui.SimpleDemo",
-    "\\Wpf.Ui\\Controls\\Interfaces",
-    "\\Wpf.Ui\\Controls\\Navigation",
-    "\\Wpf.Ui\\Controls\\States",
-    "\\Wpf.Ui\\Styles",
-    "\\Wpf.Ui\\Styles\\Controls"
+    ""
   ],
-  "SelectedNode": "\\Wpf.Ui.SimpleDemo\\MainWindow.xaml",
+  "SelectedNode": "\\Wpf.Ui.Demo.sln",
   "PreviewInSolutionExplorer": false
 }

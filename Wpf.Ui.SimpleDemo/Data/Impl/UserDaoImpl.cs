@@ -58,6 +58,17 @@ namespace Wpf.Ui.SimpleDemo.Data.Impl
             db.SubmitChanges();
         }
 
+        public User login(string username, string password)
+        {
+            string usname = username.ToLower();
+            try
+            {
+                return db.Users.Single(us => ((us.phone == usname || us.email == usname || us.username == usname) && us.password == Function.MD5(password)));
+            }
+            catch (Exception ex) { }
+            return null;
+        }
+
         public void update(User user)
         {
             User find = db.Users.Single(us => us.id == user.id);

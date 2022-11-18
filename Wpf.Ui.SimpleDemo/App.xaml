@@ -4,7 +4,7 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:local="clr-namespace:Wpf.Ui.SimpleDemo"
     xmlns:ui="http://schemas.lepo.co/wpfui/2022/xaml"
-    StartupUri="Login.xaml">
+    StartupUri="Views/Login/Login.xaml">
     <Application.Resources>
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>

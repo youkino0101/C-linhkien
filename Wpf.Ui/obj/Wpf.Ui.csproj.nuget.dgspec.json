@@ -1,21 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C#\\wpf\\wpfui\\src\\Wpf.Ui\\Wpf.Ui.csproj": {}
+    "D:\\C#\\cslinhkien\\Wpf.Ui\\Wpf.Ui.csproj": {}
   },
   "projects": {
-    "F:\\C#\\wpf\\wpfui\\src\\Wpf.Ui\\Wpf.Ui.csproj": {
+    "D:\\C#\\cslinhkien\\Wpf.Ui\\Wpf.Ui.csproj": {
       "version": "2.0.3",
       "restore": {
-        "projectUniqueName": "F:\\C#\\wpf\\wpfui\\src\\Wpf.Ui\\Wpf.Ui.csproj",
+        "projectUniqueName": "D:\\C#\\cslinhkien\\Wpf.Ui\\Wpf.Ui.csproj",
         "projectName": "WPF-UI",
-        "projectPath": "F:\\C#\\wpf\\wpfui\\src\\Wpf.Ui\\Wpf.Ui.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "F:\\C#\\wpf\\wpfui\\src\\Wpf.Ui\\obj\\",
+        "projectPath": "D:\\C#\\cslinhkien\\Wpf.Ui\\Wpf.Ui.csproj",
+        "packagesPath": "C:\\Users\\DTP000\\.nuget\\packages\\",
+        "outputPath": "D:\\C#\\cslinhkien\\Wpf.Ui\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DTP000\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -95,7 +95,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         },
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
@@ -129,7 +129,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         },
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
@@ -163,7 +163,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         },
         "net461": {
           "targetAlias": "net461",
@@ -178,7 +178,7 @@
               "version": "[4.5.0, )"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         },
         "net47": {
           "targetAlias": "net47",
@@ -193,7 +193,7 @@
               "version": "[6.0.0, )"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         },
         "net48": {
           "targetAlias": "net48",
@@ -208,7 +208,7 @@
               "version": "[6.0.0, )"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
