@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2Mury9OkZOUeQ5qQ0JTzm0RP4drNIkksdUMBFtezbCm7JZkoIdHXWPA7cWBfFLL6+efTPmkEGdfS/BfsHaiNzQ==",
+  "dgSpecHash": "Flqi9/zE5hxSb2qPBzAuIWtgEsm2qipNS5urncwE1tarUVT/QrWprQWIe/tpFEL0bfYWyvkzABkWiP15+oSNLg==",
   "success": true,
-  "projectFilePath": "D:\\C#\\cslinhkien\\Wpf.Ui.DEMO\\Wpf.Ui.Demo.csproj",
+  "projectFilePath": "D:\\C#\\cslk\\C-linhkien\\Wpf.Ui.DEMO\\Wpf.Ui.Demo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DTP000\\.nuget\\packages\\communitytoolkit.mvvm\\8.0.0\\communitytoolkit.mvvm.8.0.0.nupkg.sha512",
     "C:\\Users\\DTP000\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",

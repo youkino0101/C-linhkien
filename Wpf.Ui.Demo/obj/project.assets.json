@@ -1534,11 +1534,11 @@
   "project": {
     "version": "2.0.3",
     "restore": {
-      "projectUniqueName": "D:\\C#\\cslinhkien\\Wpf.Ui.DEMO\\Wpf.Ui.Demo.csproj",
+      "projectUniqueName": "D:\\C#\\cslk\\C-linhkien\\Wpf.Ui.DEMO\\Wpf.Ui.Demo.csproj",
       "projectName": "WPF UI - Demo App",
-      "projectPath": "D:\\C#\\cslinhkien\\Wpf.Ui.DEMO\\Wpf.Ui.Demo.csproj",
+      "projectPath": "D:\\C#\\cslk\\C-linhkien\\Wpf.Ui.DEMO\\Wpf.Ui.Demo.csproj",
       "packagesPath": "C:\\Users\\DTP000\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\cslinhkien\\Wpf.Ui.DEMO\\obj\\",
+      "outputPath": "D:\\C#\\cslk\\C-linhkien\\Wpf.Ui.DEMO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DTP000\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1555,8 +1555,8 @@
         "net6.0-windows10.0.22000": {
           "targetAlias": "net6.0-windows10.0.22000.0",
           "projectReferences": {
-            "D:\\C#\\cslinhkien\\Wpf.Ui\\Wpf.Ui.csproj": {
-              "projectPath": "D:\\C#\\cslinhkien\\Wpf.Ui\\Wpf.Ui.csproj"
+            "D:\\C#\\cslk\\C-linhkien\\Wpf.Ui\\Wpf.Ui.csproj": {
+              "projectPath": "D:\\C#\\cslk\\C-linhkien\\Wpf.Ui\\Wpf.Ui.csproj"
             }
           }
         }
