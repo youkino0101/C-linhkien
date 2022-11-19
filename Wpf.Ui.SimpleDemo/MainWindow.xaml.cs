@@ -19,4 +19,5 @@ public partial class MainWindow
         // Wpf.Ui.Appearance.Theme.ApplyDarkThemeToWindow(this);
         // Wpf.Ui.Appearance.Background.Apply(this, Wpf.Ui.Appearance.BackgroundType.Mica);
     }
+
 }
