@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Input;
 using Wpf.Ui.SimpleDemo.Data.Dao;
-using Wpf.Ui.SimpleDemo.Utils;
+
 namespace Wpf.Ui.SimpleDemo.ViewModels.Login
 {
     public class LoginViewModel : ViewModelBase
@@ -16,6 +16,16 @@ namespace Wpf.Ui.SimpleDemo.ViewModels.Login
         private string _phone;
         private string _password;
         private bool _isErrorVisible = false;
+        private Visibility _IsVisible;
+        public Visibility IsVisible
+        {
+            get { return _IsVisible; }
+            set
+            {
+                _IsVisible = value;
+                OnPropertyChanged(nameof(IsVisible));
+            }
+        }
 
         public LoginViewModel()
         {
@@ -31,13 +41,14 @@ namespace Wpf.Ui.SimpleDemo.ViewModels.Login
         private void ExecuteLoginCommand(object obj)
         {
             //SecureString myPass = Password.
-            //string pass = Password;
+            //string pass = Function.MD5(Password);
             DataDao.init(new SqlServerDataDao());
             UserDao userDao = DataDao.Instance().GetUserDao();
 
             User user = userDao.login(Phone, Password);
             if (user != null)
             {
+                IsVisible = Visibility.Hidden;
                 MainWindow mainWindow = new MainWindow();
                 mainWindow.Show();
             }
