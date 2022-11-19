@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 F:\C#\wpf\wpfui\src\Wpf.Ui.SimpleDemo\App.xaml
-31103649249
+41884423330
 11943672510
-15-306695178
+16-681559940
 211-1077134723
-DashboardPage.xaml;MainWindow.xaml;Views\Login\Login.xaml;
+DashboardPage.xaml;MainWindow.xaml;Views\Login\Demo.xaml;Views\Login\Login.xaml;
 
 False
 

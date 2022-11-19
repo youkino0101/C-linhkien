@@ -68,7 +68,7 @@ namespace Wpf.Ui.SimpleDemo {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Wpf.Ui.SimpleDemo;component/dashboardpage.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Wpf.Ui.SimpleDemo;V2.0.3.0;component/dashboardpage.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\DashboardPage.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

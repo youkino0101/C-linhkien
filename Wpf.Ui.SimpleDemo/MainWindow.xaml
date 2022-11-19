@@ -4,6 +4,7 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:local="clr-namespace:Wpf.Ui.SimpleDemo"
+    xmlns:local1="clr-namespace:Wpf.Ui.SimpleDemo.Views.Login"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     xmlns:ui="http://schemas.lepo.co/wpfui/2022/xaml"
     Title="WPF UI - Simple Demo"
@@ -29,7 +30,11 @@
                     Icon="Home24"
                     PageTag="home"
                     PageType="{x:Type local:DashboardPage}" />
-                <ui:NavigationItem Content="Apps" Icon="AppFolder24" />
+                <ui:NavigationItem 
+                    Content="Apps" 
+                    Icon="AppFolder24" 
+                    PageTag="home"
+                    PageType="{x:Type local1:Demo}" />
                 <ui:NavigationItem Content="Mail" Icon="Mail24" />
             </ui:NavigationStore.Items>
             <ui:NavigationStore.Footer>

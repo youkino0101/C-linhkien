@@ -42,16 +42,23 @@
                 MouseDown="Border_MouseDown">
             <StackPanel VerticalAlignment="Center"
                         Margin="70 0">
-                <TextBlock FontSize="17"
-                           Text="Chào Mừng Quay Lại Với Shop!"
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock FontSize="17"
+                           Text="Chào Mừng Quay Lại Với "
                            FontWeight="Bold"/>
+                    <TextBlock FontSize="17"
+                           Text="Shop!"
+                           FontWeight="Bold"
+                               Foreground="{DynamicResource PaletteCyanBrush}"/>
+                </StackPanel>
+                
                 <TextBlock Margin="0 30 0 0"
                            Text="Tên Đăng Nhập"
                            FontSize="16"
                            FontWeight="Bold"/>
                 <ui:TextBox Margin="0 10 0 0"
                             Text="{Binding Phone, UpdateSourceTrigger=PropertyChanged}"
-                            PlaceholderText="Số điện thoại hoặc email"/>
+                            PlaceholderText="Số điện thoại hoặc Email"/>
                 <TextBlock Margin="0 30 0 0"
                            Text="Mật Khẩu"
                            FontSize="16"
