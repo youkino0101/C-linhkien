@@ -40,6 +40,6 @@
         <Frame
             x:Name="MainFrame"
             Grid.Column="1"
-            Margin="8,0,0,0" />
+            Margin="8,0,0,0" Navigated="MainFrame_Navigated" />
     </Grid>
 </Window>
