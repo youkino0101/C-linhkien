@@ -52,7 +52,7 @@ namespace Wpf.Ui.Styles.Controls {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Wpf.Ui;V2.0.3.0;component/styles/controls/contextmenu.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Wpf.Ui;component/styles/controls/contextmenu.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\Styles\Controls\ContextMenu.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

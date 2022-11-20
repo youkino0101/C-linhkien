@@ -118,7 +118,7 @@ namespace Wpf.Ui.Demo.Views {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WPF UI - Demo App;V2.0.3.0;component/views/container.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/WPF UI - Demo App;component/views/container.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Views\Container.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

@@ -286,3 +286,99 @@ D:\C#\cslinhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\refint\WPF UI 
 D:\C#\cslinhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\WPF UI - Demo App.pdb
 D:\C#\cslinhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Wpf.Ui.Demo.genruntimeconfig.cache
 D:\C#\cslinhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\ref\WPF UI - Demo App.dll
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\CommunityToolkit.Mvvm.dll
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.Configuration.dll
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.Configuration.Json.dll
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.DependencyInjection.dll
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.Hosting.dll
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.Logging.dll
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.Logging.Console.dll
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.Logging.Debug.dll
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.Logging.EventLog.dll
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.Logging.EventSource.dll
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.Options.dll
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Extensions.Primitives.dll
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Wpf.Ui.dll
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\WPF UI - Demo App.exe
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\WPF UI - Demo App.dll
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Microsoft.Windows.SDK.NET.dll
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\WinRT.Runtime.dll
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\Wpf.Ui.pdb
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Wpf.Ui.Demo.csproj.AssemblyReference.cache
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\App.baml
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Container.g.cs
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Diagnostics\DebuggingLayerView.g.cs
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Pages\Buttons.g.cs
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Pages\Colors.g.cs
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Pages\Controls.g.cs
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Pages\Dashboard.g.cs
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Pages\Data.g.cs
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Pages\Debug.g.cs
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Pages\ExperimentalDashboard.g.cs
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Pages\Icons.g.cs
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Pages\Input.g.cs
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Pages\Menus.g.cs
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Pages\STPage.g.cs
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Pages\TMPage.g.cs
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Windows\EditorWindow.g.cs
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Windows\ExperimentalWindow.g.cs
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Windows\SettingsWindow.g.cs
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Windows\StoreWindow.g.cs
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Windows\TaskManagerWindow.g.cs
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\App.g.cs
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\WPF UI - Demo App_Content.g.cs
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\GeneratedInternalTypeHelper.g.cs
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\WPF UI - Demo App_MarkupCompile.cache
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\WPF UI - Demo App_MarkupCompile.lref
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Container.baml
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Diagnostics\DebuggingLayerView.baml
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Pages\Buttons.baml
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Pages\Colors.baml
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Pages\Controls.baml
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Pages\Dashboard.baml
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Pages\Data.baml
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Pages\Debug.baml
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Pages\ExperimentalDashboard.baml
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Pages\Icons.baml
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Pages\Input.baml
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Pages\Menus.baml
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Pages\STPage.baml
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Pages\TMPage.baml
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Windows\EditorWindow.baml
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Windows\ExperimentalWindow.baml
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Windows\SettingsWindow.baml
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Windows\StoreWindow.baml
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Views\Windows\TaskManagerWindow.baml
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\WPF UI - Demo App.g.resources
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Wpf.Ui.Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Wpf.Ui.Demo.AssemblyInfoInputs.cache
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Wpf.Ui.Demo.AssemblyInfo.cs
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Wpf.Ui.Demo.csproj.CoreCompileInputs.cache
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\WPF UI - Demo App.dll
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\refint\WPF UI - Demo App.dll
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\WPF UI - Demo App.pdb
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\License - Fira Code.txt
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\License - Fluent System Icons.txt
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\License - Segoe Fluent Icons.txt
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\License - VirtualizingWrapPanel.txt
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\WPF UI - Demo App.deps.json
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\WPF UI - Demo App.runtimeconfig.json
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\bin\Debug\net6.0-windows10.0.22000.0\WPF UI - Demo App.pdb
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Wpf.Ui.Demo.csproj.CopyComplete
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\Wpf.Ui.Demo.genruntimeconfig.cache
+D:\C#\cslk\C-linhkien\Wpf.Ui.DEMO\obj\Debug\net6.0-windows10.0.22000.0\ref\WPF UI - Demo App.dll

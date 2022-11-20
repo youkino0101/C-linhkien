@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "B88t+FSY0YeoqOzNwEc89keJpplpu/4lGUAe1owgOonGvPRZ4QT652m4wjOrjMWZGlveI+lGwhHmEEThyiAaSQ==",
+  "dgSpecHash": "lB8K2PT8Ki+uyaTU7XGnytHHNZx/GJ/fotyCPIRiGESaA1NsO5roNjNH+Km+jt17L+Ql+faEHufYU0JoxuXakg==",
   "success": true,
   "projectFilePath": "D:\\C#\\cslk\\C-linhkien\\Wpf.Ui.SimpleDemo\\Wpf.Ui.SimpleDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DTP000\\.nuget\\packages\\castle.core\\4.3.1\\castle.core.4.3.1.nupkg.sha512",
+    "C:\\Users\\DTP000\\.nuget\\packages\\fontawesome.sharp\\6.1.1\\fontawesome.sharp.6.1.1.nupkg.sha512",
+    "C:\\Users\\DTP000\\.nuget\\packages\\mahapps.metro.iconpacks.material\\4.11.0\\mahapps.metro.iconpacks.material.4.11.0.nupkg.sha512",
     "C:\\Users\\DTP000\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
     "C:\\Users\\DTP000\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\DTP000\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\5.0.0\\microsoft.extensions.configuration.fileextensions.5.0.0.nupkg.sha512",

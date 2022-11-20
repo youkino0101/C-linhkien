@@ -79,7 +79,7 @@ namespace Wpf.Ui.Demo.Views.Pages {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WPF UI - Demo App;V2.0.3.0;component/views/pages/icons.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/WPF UI - Demo App;component/views/pages/icons.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\Views\Pages\Icons.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
