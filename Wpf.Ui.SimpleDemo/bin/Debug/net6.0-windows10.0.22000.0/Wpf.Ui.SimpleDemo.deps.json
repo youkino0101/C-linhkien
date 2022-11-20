@@ -8,8 +8,6 @@
     ".NETCoreApp,Version=v6.0": {
       "Wpf.Ui.SimpleDemo/2.0.3": {
         "dependencies": {
-          "FontAwesome.Sharp": "6.1.1",
-          "MahApps.Metro.IconPacks.Material": "4.11.0",
           "Microsoft.Extensions.Configuration.UserSecrets": "5.0.0",
           "Mindbox.Data.Linq": "5.0.0",
           "WPF-UI": "2.0.3",
@@ -48,26 +46,6 @@
           "lib/netstandard1.5/Castle.Core.dll": {
             "assemblyVersion": "4.0.0.0",
             "fileVersion": "4.3.1.0"
-          }
-        }
-      },
-      "FontAwesome.Sharp/6.1.1": {
-        "runtime": {
-          "lib/net6.0-windows7.0/FontAwesome.Sharp.dll": {
-            "assemblyVersion": "6.1.1.0",
-            "fileVersion": "6.1.1.0"
-          }
-        }
-      },
-      "MahApps.Metro.IconPacks.Material/4.11.0": {
-        "runtime": {
-          "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.Core.dll": {
-            "assemblyVersion": "4.0.0.0",
-            "fileVersion": "4.11.0.12"
-          },
-          "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.Material.dll": {
-            "assemblyVersion": "4.0.0.0",
-            "fileVersion": "4.11.0.12"
           }
         }
       },
@@ -1086,20 +1064,6 @@
       "sha512": "sha512-8Y/eTr6GTElAGV7eAmJuhfLhGdFpNvaNrQ9UQYDScziLmX+/BLGM+9eQr0IcdNDcPN0ADmbtwT6MgecGKy4obw==",
       "path": "castle.core/4.3.1",
       "hashPath": "castle.core.4.3.1.nupkg.sha512"
-    },
-    "FontAwesome.Sharp/6.1.1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-p6dnSMcKQg790vGSJgvFk6S8gXQnEcCugfaJ21WFxZz9h+9KyxL+sX6kbGv8p4iVoX/e5BAMnTV4QJFJvx8QxQ==",
-      "path": "fontawesome.sharp/6.1.1",
-      "hashPath": "fontawesome.sharp.6.1.1.nupkg.sha512"
-    },
-    "MahApps.Metro.IconPacks.Material/4.11.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-ZCuuxWHvXxl39XBYXk4PCMUVtw1pevT5AE1qsj7VRy2tRtDYbzHWYW0FbnH+Vf0rP7BogZrRlKns3zFEkDEjFQ==",
-      "path": "mahapps.metro.iconpacks.material/4.11.0",
-      "hashPath": "mahapps.metro.iconpacks.material.4.11.0.nupkg.sha512"
     },
     "Microsoft.Extensions.Configuration/5.0.0": {
       "type": "package",

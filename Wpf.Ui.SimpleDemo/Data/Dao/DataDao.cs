@@ -19,7 +19,6 @@ namespace Wpf.Ui.SimpleDemo.Data.Dao
             return instance;
         }
         abstract public UserDao GetUserDao();
-        abstract public ProductDao GetProductDao(); 
 
     }
 }

@@ -16,16 +16,7 @@ namespace Wpf.Ui.SimpleDemo.ViewModels.Login
         private string _phone;
         private string _password;
         private bool _isErrorVisible = false;
-        private Visibility _IsVisible;
-        public Visibility IsVisible
-        {
-            get { return _IsVisible; }
-            set
-            {
-                _IsVisible = value;
-                OnPropertyChanged(nameof(IsVisible));
-            }
-        }
+
         public LoginViewModel()
         {
             LoginCommand = new RelayCommand<object>(CanExecuteLoginCommand, ExecuteLoginCommand);
@@ -47,7 +38,6 @@ namespace Wpf.Ui.SimpleDemo.ViewModels.Login
             User user = userDao.login(Phone, Password);
             if (user != null)
             {
-                IsVisible = Visibility.Hidden;
                 MainWindow mainWindow = new MainWindow();
                 mainWindow.Show();
             }

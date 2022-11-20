@@ -9,16 +9,9 @@ namespace Wpf.Ui.SimpleDemo.Data.Dao
 {
     public class SqlServerDataDao : DataDao
     {
-        public override ProductDao GetProductDao()
-        {
-            return new ProductDaoImpl();
-        }
-
         public override UserDao GetUserDao()
         {
             return new UserDaoImpl();
         }
-
-
     }
 }

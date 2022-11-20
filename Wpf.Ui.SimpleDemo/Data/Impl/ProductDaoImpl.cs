@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Xml.Linq;
 using Wpf.Ui.SimpleDemo.Data.Dao;
 using Wpf.Ui.SimpleDemo.Utils;
 
@@ -41,25 +40,6 @@ namespace Wpf.Ui.SimpleDemo.Data.Impl
         public Product findById(int id)
         {
             return db.Products.Single(us => us.id == id);
-        }
-
-        public Product findByName(string name)
-        {
-            return db.Products.Single(us => us.name == name);
-        }
-
-        public List<Product> findByCategory(int id)
-        {
-            var all = from Product in db.GetTable<Product>() where Product.categoryId == id select Product;
-            var ProductList = all.ToList();
-            return ProductList;
-        }
-
-        public List<Product> findKeyName(string name)
-        {
-            var all = from Product in db.GetTable<Product>() where Product.name.Contains(name) select Product;
-            var ProductList = all.ToList();
-            return ProductList;
         }
 
         public void insert(Product Product)
