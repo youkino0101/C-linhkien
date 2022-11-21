@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 D:\C#\cslk\C-linhkien\Wpf.Ui.SimpleDemo\App.xaml
-81182340407
+31103649249
 11943672510
-311178393298
+26-646905267
 222-2004110956
-DashboardPage.xaml;MainWindow.xaml;ProductPage.xaml;Resources\MainResource.xaml;Styles\ButtonStyles.xaml;Styles\UIColors.xaml;Views\Login\Login.xaml;Views\ProductView.xaml;
+DashboardPage.xaml;MainWindow.xaml;Views\Login\Login.xaml;
 
-True
+False
 
