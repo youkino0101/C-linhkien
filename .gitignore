@@ -4,8 +4,7 @@ Wpf.Ui.Extension.sln
 Wpf.Ui.sln
 Wpf.Ui.Tools.sln
 Wpf.Ui.SimpleDemo/Utils/Constants.cs
-/Wpf.Ui/bin/Debug
-/Wpf.Ui.Demo/bin/Debug
-/Wpf.Ui.Demo/obj/bin/Debug
-/Wpf.Ui.SimpleDemo/bin/Debug
-/Wpf.Ui.SimpleDemo/obj/bin/Debug
+bin/Debug
+obj/Debug
+.vs
+.vs/Wpf.Ui.Demo/v17/.suo

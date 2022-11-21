@@ -3,6 +3,8 @@
 // Copyright (C) Leszek Pomianowski and WPF UI Contributors.
 // All Rights Reserved.
 
+using System.Windows;
+
 namespace Wpf.Ui.SimpleDemo;
 
 /// <summary>
@@ -20,4 +22,21 @@ public partial class MainWindow
         // Wpf.Ui.Appearance.Background.Apply(this, Wpf.Ui.Appearance.BackgroundType.Mica);
     }
 
+<<<<<<< HEAD
+=======
+    private void btnClose_Click(object sender, RoutedEventArgs e)
+    {
+        Application.Current.Shutdown();
+    }
+    private void btnMinimize_Click(object sender, RoutedEventArgs e)
+    {
+        this.WindowState = WindowState.Minimized;
+    }
+    private void btnMaximize_Click(object sender, RoutedEventArgs e)
+    {
+        if (this.WindowState == WindowState.Normal)
+            this.WindowState = WindowState.Maximized;
+        else this.WindowState = WindowState.Normal;
+    }
+>>>>>>> 3bc8592cf4d23664373523cf8e27d26e83511bca
 }

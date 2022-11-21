@@ -9,6 +9,7 @@
         Visibility="{Binding IsVisible, Mode=TwoWay}"
         xmlns:ui="http://schemas.lepo.co/wpfui/2022/xaml"
         Background="Transparent"
+        Visibility="{Binding IsVisible, Mode=TwoWay}"
         Title="Sign In" Height="650" Width="800"
        >
     <Window.DataContext>

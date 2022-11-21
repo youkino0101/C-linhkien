@@ -26,7 +26,10 @@ namespace Wpf.Ui.SimpleDemo.ViewModels.Login
                 OnPropertyChanged(nameof(IsVisible));
             }
         }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3bc8592cf4d23664373523cf8e27d26e83511bca
         public LoginViewModel()
         {
             LoginCommand = new RelayCommand<object>(CanExecuteLoginCommand, ExecuteLoginCommand);

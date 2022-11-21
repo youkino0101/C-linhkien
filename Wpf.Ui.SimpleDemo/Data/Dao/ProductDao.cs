@@ -10,5 +10,9 @@ namespace Wpf.Ui.SimpleDemo.Data.Dao
         int count();
         Product findById(int id);
         void deleteById(int id);
+
+        Product findByName(string name);
+        List<Product> findKeyName(string name);
+        List<Product> findByCategory(int id);
     }
 }

@@ -42,6 +42,11 @@ namespace Wpf.Ui.SimpleDemo.Data.Impl
             return db.Categories.Single(us => us.id == id);
         }
 
+        public Category findByName(string name)
+        {
+            return db.Categories.Single(us => us.name == name);
+        }
+
         public void insert(Category Category)
         {
             db.Categories.InsertOnSubmit(Category);
