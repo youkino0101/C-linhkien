@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "MkNhpDyHdPfI11jUgga9yy9EbbGNZ0kWo+O0R2E4fzXw/Z7oAWTaycXV/TqCH5X6ixgmyCqi4H2vuxfdYijIKg==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\cslk\\C-linhkien\\Wpf.Ui\\Wpf.Ui.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DTP000\\.nuget\\packages\\microsoft.build.tasks.git\\1.1.1\\microsoft.build.tasks.git.1.1.1.nupkg.sha512",
+    "C:\\Users\\DTP000\\.nuget\\packages\\microsoft.sourcelink.common\\1.1.1\\microsoft.sourcelink.common.1.1.1.nupkg.sha512",
+    "C:\\Users\\DTP000\\.nuget\\packages\\microsoft.sourcelink.github\\1.1.1\\microsoft.sourcelink.github.1.1.1.nupkg.sha512",
+    "C:\\Users\\DTP000\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\DTP000\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\DTP000\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -28,15 +28,18 @@
             <Label Content="Mã Sp"
                    Margin="10"
                    Foreground="White"/>
-            <TextBox Text="{Binding id}"
-                     IsEnabled="False"
+            <TextBox Text="{Binding IdP}"
+                     x:Name="idtxt"
+                    
                      Margin="0 10 0 0"/>
             <Label Content="Số Lượng"
                    Margin="10 20"
                    Foreground="White"/>
             <ui:NumberBox Max="100" 
+                          x:Name="quanlitytxt"
                           Min="0" 
-                          Step="1" 
+                          Step="1"
+                          Text="{Binding QuantityP}"
                           DecimalPlaces="0"/>
             <Label Content="Ghi Chú:"
                    Margin="15 30 10 0"
@@ -49,13 +52,13 @@
             <Label Content="Tên Sản Phẩm"
                    Margin="0 10"
                    Foreground="White"/>
-            <TextBox Text="{Binding NameP}" Margin="0 10 0 0" />
+            <TextBox Text="{Binding NameP}" x:Name="nametxt" Margin="0 10 0 0" />
 
             <Label Content="Đơn Giá (VND)"
                     Margin="0 20"
                    Foreground="White"/>
-            <ui:NumberBox  Min="0" Step="10000" DecimalPlaces="0" Value="{Binding PriceP}"/>
-            <ui:TextBox MinLines="3" Text="{Binding DescriptionP}" AcceptsReturn="True" PlaceholderText="Chú Thích" Margin="0 25 0 0"/>
+            <ui:NumberBox  Min="0" Step="10000" DecimalPlaces="0" x:Name="pricetxt" Text="{Binding PriceP}"/>
+            <ui:TextBox MinLines="3" Text="{Binding DescriptionP}" AcceptsReturn="True" x:Name="desctxt" PlaceholderText="Chú Thích" Margin="0 25 0 0"/>
 
         </StackPanel>
         <!-- Layout hàng 1 cột 3-->
@@ -65,6 +68,7 @@
                    Margin="0 10"
                    Foreground="White"/>
             <ComboBox Margin="0 10 0 0"
+                      Name="cbx"
                       SelectionChanged="TaskbarStateComboBox_OnSelectionChanged"
                       SelectedIndex="0">
                 <!-- lấy giá trị trong combobox
@@ -81,25 +85,26 @@
             </ComboBox>
             <!--cái này làm cho đẹp ko cần xử lý-->
             <Label Content="Tìm Kiếm"
-                    Margin="0 20"
+                    Margin="0 18"
                    Foreground="White"/>
-            <ui:AutoSuggestBox ItemsSource="{Binding MyData}" PlaceholderText="Search..." />
+            <TextBox Text="{Binding SearchName}" x:Name="searchtxt"/>
+            <ui:Button Content="Tìm" Command="{Binding SearchProductCommand}" Margin="50 20" Width="100"/>
         </StackPanel>
         <!-- Layout hàng 1 cột 4-->
         <StackPanel Margin="10 20 10 10" 
                     Grid.Column="3">
             <StackPanel HorizontalAlignment="Center" Orientation="Vertical" Width="Auto">
                 <ui:Button Content="Thêm" Command="{Binding CreateProductCommand}" Width="100" Height="40" Margin="10"/>
-                <ui:Button Content="Sửa" Width="100" Height="40" Margin="10"/>
-                <ui:Button Content="Làm Mới" Width="100" Height="40" Margin="10"/>
-                <ui:Button Content="Xóa" Width="100" Height="40" Margin="10"/>
+                <ui:Button Content="Sửa" Command="{Binding EditProductCommand}" Width="100" Height="40" Margin="10"/>
+                <ui:Button Content="Làm Mới" Width="100" Height="40" Margin="10" Click="load"/>
+                <ui:Button Content="Xóa" Command="{Binding DeleteProductCommand}" Width="100" Height="40" Margin="10"/>
             </StackPanel>
 
         </StackPanel>
 
 
         <Border Grid.Row="1" Grid.ColumnSpan="4">
-            <DataGrid ItemsSource="{Binding ProductList, Mode=OneWay, NotifyOnSourceUpdated=True, UpdateSourceTrigger=PropertyChanged}" AutoGenerateColumns="False" >
+            <DataGrid ItemsSource="{Binding ProductList, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged, NotifyOnSourceUpdated=True}" AutoGenerateColumns="False" x:Name="table" SelectionChanged="select">
                 <DataGrid.Columns>
                     <!--<DataGridTextColumn Header="#" IsReadOnly="True" CanUserResize="False" Width="auto"/>-->
                     <DataGridTextColumn Header="Mã SP" Binding="{Binding id}" IsReadOnly="True" Width="50" />
@@ -107,6 +112,8 @@
                     <DataGridTextColumn Header="Đơn Giá " Binding="{Binding price}" IsReadOnly="True" Width="auto"/>
                     <DataGridTextColumn Header="Số Lượng Trong Kho" Binding="{Binding quantity}" IsReadOnly="True" Width="auto"/>
                     <DataGridTextColumn Header="Chú Thích " Binding="{Binding description}" IsReadOnly="True" Width="*"/>
+                    <DataGridTextColumn Header="DM" Binding="{Binding categoryId}" IsReadOnly="True" Width="50"/>
+                    
                 </DataGrid.Columns>
             </DataGrid>
         </Border>

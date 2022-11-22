@@ -7,10 +7,12 @@ namespace Wpf.Ui.SimpleDemo.Data.Dao
         void insert(User user);
         void update(User user);
         List<User> findAll();
+        List<User> findAllCustomer(string role);
         int count();
         User findById(int id);
         void deleteById(int id);
         User find(string phone, string password);
+
 
         User login(string username, string password);
     }

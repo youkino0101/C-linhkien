@@ -29,7 +29,8 @@ namespace Wpf.Ui.SimpleDemo.ViewModels.Login
         public LoginViewModel()
         {
             LoginCommand = new RelayCommand<object>(CanExecuteLoginCommand, ExecuteLoginCommand);
-            Password = "";
+            Password = "DTP000^^";
+            Phone = "dtp000";
         }
 
         private bool CanExecuteLoginCommand(object obj)

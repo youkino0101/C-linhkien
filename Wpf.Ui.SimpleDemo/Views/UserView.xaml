@@ -1,0 +1,79 @@
+﻿<UserControl x:Class="Wpf.Ui.SimpleDemo.Views.UserView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:ui="http://schemas.lepo.co/wpfui/2022/xaml"
+             xmlns:local="clr-namespace:Wpf.Ui.SimpleDemo.Views"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Border Grid.ColumnSpan="4"
+                
+                Background="{DynamicResource PaletteCyanBrush}">
+
+        </Border>
+
+        <!-- Layout hàng 1 cột 1-->
+        <StackPanel Margin="30 30 10 10" >
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Mã KH: "
+                   Margin="0 10 30 10"
+                   Foreground="White"/>
+                <TextBox Text="{Binding IdU}"
+                     x:Name="idtxt" Width="302"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0 30">
+                <Label Content="Tên KH"
+                       Margin="0 10 30 10"
+                   Foreground="White"/>
+                <TextBox Text="{Binding NameU}"
+                     x:Name="nametxt" Width="302"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <ui:Button Content="Thêm" Command="{Binding CreateUserViewCommand}" Width="170" Height="40" Margin="10"/>
+                <ui:Button Content="Sửa"  Command="{Binding EditUserViewCommand}" Width="170" Height="40" Margin="10"/>
+            </StackPanel>
+        </StackPanel>
+
+        <!-- Layout hàng 1 cột 2-->
+        <StackPanel Margin="10 30 0 10" 
+                    Grid.Column="1">
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Số Điện Thoại"
+                       Margin="0 10 10 10"
+                       Foreground="White"/>
+                <TextBox Text="{Binding PhoneU}" x:Name="phonetxt" Width="280" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0 30">
+                <Label Content="Địa Chỉ"
+                        Margin="0 10 45 10"
+                       Foreground="White"/>
+                <TextBox Text="{Binding AddressU}" x:Name="addresstxt" Width="280" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <ui:Button Content="Làm Mới" Width="170" Height="40" Margin="10" Click="load" />
+                <ui:Button Content="Xóa"  Command="{Binding DeleteUserCommand}" Width="170" Height="40" Margin="10"/>
+            </StackPanel>
+        </StackPanel>
+        <Border Grid.Row="1" Grid.ColumnSpan="2">
+            <DataGrid ItemsSource="{Binding UserList, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged, NotifyOnSourceUpdated=True}" AutoGenerateColumns="False" x:Name="table" SelectionChanged="select">
+                <DataGrid.Columns>
+                    <!--<DataGridTextColumn Header="#" IsReadOnly="True" CanUserResize="False" Width="auto"/>-->
+                    <DataGridTextColumn Header="Mã KH" Binding="{Binding id}" IsReadOnly="True" Width="50" />
+                    <DataGridTextColumn Header="Tên Khách Hàng" Binding="{Binding email}" IsReadOnly="True" Width="*"/>
+                    <DataGridTextColumn Header="Số Điện Thoại" Binding="{Binding phone}" IsReadOnly="True" Width="auto"/>
+                    <DataGridTextColumn Header="Địa Chỉ" Binding="{Binding address}" IsReadOnly="True" Width="*"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </Border>
+    </Grid>
+</UserControl>

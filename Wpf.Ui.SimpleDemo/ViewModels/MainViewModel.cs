@@ -61,21 +61,18 @@ namespace Wpf.Ui.SimpleDemo.ViewModels
 
         public MainViewModel()
         {
-            //ShowUserViewCommand = new ViewModelCommand(ExecuteShowUserViewCommand);
+            ShowUserViewCommand = new ViewModelCommand(ExecuteShowUserViewCommand);
             ShowProductViewCommand = new ViewModelCommand(ExecuteShowProductViewCommand);
             //ShowCategoryViewCommand = new ViewModelCommand(ExecuteShowCategoryViewCommand);
-            //Default view
-            //ExecuteShowUserViewCommand(null);
-            ExecuteShowProductViewCommand(null);
-            //ExecuteShowCategoryViewCommand(null);
+            
 
         }
 
         public void ExecuteShowUserViewCommand(object obj)
         {
-           // CurrentChildView = new UserViewModel(this);
-            /*Caption = "Users";
-            Icon = IconChar.User;*/
+            CurrentChildView = new UserViewModel(this);
+            Caption = "Users";
+            Icon = IconChar.User;
         }
 
         public void ExecuteShowProductViewCommand(object obj)

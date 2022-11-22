@@ -50,9 +50,9 @@ namespace Wpf.Ui.SimpleDemo.Data.Impl
 
         public List<Product> findByCategory(int id)
         {
-            var all = from Product in db.GetTable<Product>() where Product.categoryId == id select Product;
-            var ProductList = all.ToList();
-            return ProductList;
+           /* var all = from Product in db.GetTable<Product>() where Product.categoryId == id select Product;
+            var ProductList = all.ToList();*/
+            return db.Products.Where(pr => pr.categoryId == id && pr.status == 1).ToList();
         }
 
         public List<Product> findKeyName(string name)

@@ -47,6 +47,11 @@ namespace Wpf.Ui.SimpleDemo.Data.Impl
             return userList;
         }
 
+        public List<User> findAllCustomer(string role)
+        {
+            return db.Users.Where(us => us.role == role).ToList();
+        }
+
         public User findById(int id)
         {
             return db.Users.Single(us => us.id == id);
@@ -72,12 +77,9 @@ namespace Wpf.Ui.SimpleDemo.Data.Impl
         public void update(User user)
         {
             User find = db.Users.Single(us => us.id == user.id);
-            find.username = user.username;
-            find.password = user.password;
             find.email = user.email;
             find.phone = user.phone;
             find.address = user.address;
-            find.role = user.role;
             db.SubmitChanges();
         }
     }

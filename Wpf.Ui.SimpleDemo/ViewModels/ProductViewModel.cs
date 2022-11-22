@@ -7,18 +7,25 @@ using System.Threading.Tasks;
 using FontAwesome.Sharp;
 using System.Windows.Input;
 using Wpf.Ui.SimpleDemo.Data.Dao;
+using Wpf.Ui.SimpleDemo.Views;
+using System.Windows;
 
 namespace Wpf.Ui.SimpleDemo.ViewModels
 {
     public class ProductViewModel : ViewModelBase
     {
         public MainViewModel _mainViewModel;
+        private int _id;
         private String _name;
-        private decimal _price;
+        private float _price;
         private int _quantity;
         private String _description;
         private int _categoryId;
+        private String _searchName;
         public ICommand CreateProductCommand { get; }
+        public ICommand EditProductCommand { get; }
+        public ICommand DeleteProductCommand { get; }
+        public ICommand SearchProductCommand { get; }
 
 
         public ObservableCollection<Product> _productList;
@@ -33,23 +40,23 @@ namespace Wpf.Ui.SimpleDemo.ViewModels
             }
         }
 
-        public ICommand ShowCreateProductViewCommand { get; }
-        public ICommand ShowEditProductViewCommand { get; }
 
         public ICommand DeleteProductViewCommand { get; }
 
         public ProductViewModel(MainViewModel mainViewModel)
         {
             _mainViewModel = mainViewModel;
-            ShowCreateProductViewCommand = new ViewModelCommand(ExecuteShowCreateProductViewCommand);
-            ShowEditProductViewCommand = new ViewModelCommand(ExecuteShowEditProductViewCommand);
-            DeleteProductViewCommand = new ViewModelCommand(ExecuteDeleteProductViewCommand);
+            SearchProductCommand = new ViewModelCommand(ExecuteSearchProductViewCommand);
+            CreateProductCommand = new ViewModelCommand(ExecuteCreateProductViewCommand);
+            EditProductCommand = new ViewModelCommand(ExecuteEditProductViewCommand);
+            DeleteProductCommand = new ViewModelCommand(ExecuteDeleteProductViewCommand);
             InitData();
         }
         private void InitData()
         {
             _productList = new ObservableCollection<Product>();
             loadProductList();
+
         }
 
         private void loadProductList()
@@ -61,32 +68,76 @@ namespace Wpf.Ui.SimpleDemo.ViewModels
             foreach (Product product in list)
             {
                 // delete product code in product name
-                string[] words = product.name.Trim().Split(' ');
-                words[words.Length - 1] = "";
-                product.name = String.Join(' ', words).Trim();
+                if (product.name.Length > 5){
+                    string[] words = product.name.Trim().Split(' ');
+                    words[words.Length - 1] = "";
+                    product.name = String.Join(' ', words).Trim();
+                }
                 _productList.Add(product);
             }
         }
-        private void ExecuteShowCreateProductViewCommand(object obj)
+        private void ExecuteCreateProductViewCommand(object obj)
         {
-            //_mainViewModel.CurrentChildView = new CreateProductViewModel();
-            //_mainViewModel.Caption = "Create Products";
-            //_mainViewModel.Icon = IconChar.ShoppingBag;
+            Product product = new Product();
+            product.name = _name;
+            product.price = _price;
+            product.quantity = _quantity;
+            product.description = _description;
+            product.status = 1;
+            product.categoryId = ProductView.temp;
+            
+            ProductDao productDao = DataDao.Instance().GetProductDao();
+            productDao.insert(product);
+            loadProductList();
         }
-        private void ExecuteShowEditProductViewCommand(object obj)
+        private void ExecuteEditProductViewCommand(object obj)
         {
-            //int Id = (int)obj;
-            //_mainViewModel.CurrentChildView = new EditProductViewModel(Id);
-            //_mainViewModel.Caption = "Edit Products";
-            //_mainViewModel.Icon = IconChar.ShoppingBag;
-
-
+            Product product = new Product();
+            product.id = _id;
+            product.name = _name;
+            product.price = _price;
+            product.quantity = _quantity;
+            product.description = _description;
+            product.categoryId = ProductView.temp;
+            ProductDao productDao = DataDao.Instance().GetProductDao();
+            productDao.update(product);
+            loadProductList();
         }
         private void ExecuteDeleteProductViewCommand(object obj)
         {
-            int Id = (int)obj;
-            DataDao.Instance().GetProductDao().deleteById(Id);
+            Product product = new Product();
+            product.id = _id;
+            DataDao.Instance().GetProductDao().deleteById(product.id);
             loadProductList();
+        }
+
+        private void ExecuteSearchProductViewCommand(object obj)
+        {
+            ProductDao productDao = DataDao.Instance().GetProductDao();
+            List<Product> list = productDao.findKeyName(_searchName);
+            _productList.Clear();
+
+            foreach (Product product in list)
+            {
+                // delete product code in product name
+                if (product.name.Length > 5)
+                {
+                    string[] words = product.name.Trim().Split(' ');
+                    words[words.Length - 1] = "";
+                    product.name = String.Join(' ', words).Trim();
+                }
+                _productList.Add(product);
+            }
+        }
+
+        public int IdP
+        {
+            get => _id;
+            set
+            {
+                _id = value;
+                OnPropertyChanged(nameof(IdP));
+            }
         }
         public string NameP
         {
@@ -97,7 +148,7 @@ namespace Wpf.Ui.SimpleDemo.ViewModels
                 OnPropertyChanged(nameof(NameP));
             }
         }
-        public decimal PriceP
+        public float PriceP
         {
             get => _price;
             set
@@ -129,8 +180,19 @@ namespace Wpf.Ui.SimpleDemo.ViewModels
             get => _categoryId;
             set
             {
-                _categoryId = value;
-                OnPropertyChanged(nameof(CategoryIdP));
+                _categoryId = ProductView.temp;
+
+            }
+        }
+
+        public string SearchName
+        {
+            get => _searchName;
+            set
+            {
+                _searchName = value;
+                OnPropertyChanged(nameof(SearchName));
+
             }
         }
     }
