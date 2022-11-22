@@ -7,6 +7,27 @@
              mc:Ignorable="d" 
              d:DesignHeight="450" d:DesignWidth="800">
     <Grid>
-            
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="1.5*" />
+            <ColumnDefinition Width="1.5*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Border Grid.Row="1" Grid.ColumnSpan="4">
+            <DataGrid ItemsSource="{Binding OrderList, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged, NotifyOnSourceUpdated=True}" AutoGenerateColumns="False" x:Name="table" SelectionChanged="select">
+                <DataGrid.Columns>
+                    <!--<DataGridTextColumn Header="#" IsReadOnly="True" CanUserResize="False" Width="auto"/>-->
+                    <DataGridTextColumn Header="Mã HĐ" Binding="{Binding id}" IsReadOnly="True" Width="50" />
+                    <DataGridTextColumn Header="Tên KH" Binding="{Binding name}" IsReadOnly="True" Width="*"/>
+                    <DataGridTextColumn Header="Tổng Tiền" Binding="{Binding totalPrice}" IsReadOnly="True" Width="*"/>
+                    <DataGridTextColumn Header="Ngày Đặt" Binding="{Binding dateOrder}" IsReadOnly="True" Width="*"/>
+                    <DataGridTextColumn Header="Trạng Thái" Binding="{Binding status}" IsReadOnly="True" Width="*"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </Border>
     </Grid>
 </UserControl>
